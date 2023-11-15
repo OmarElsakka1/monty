@@ -1,2 +1,1 @@
-# monty
-This is monty GitHub Repository
+This is my Readme file for monty
